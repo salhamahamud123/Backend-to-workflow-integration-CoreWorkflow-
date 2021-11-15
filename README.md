@@ -1,4 +1,4 @@
-# Backend-to-workflow-integration-CoreWorkflow-
+# Backend-to-workflow-integration-CoreWorkflow
 
 This tutorial shows how to configure workflow by using Elsa Workflow library both programmatically and using Visual Designer.
 
