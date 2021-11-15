@@ -1,12 +1,12 @@
 # Backend-to-workflow-integration-CoreWorkflow
 
-This tutorial shows how to configure workflow by using Elsa Workflow library both programmatically and using Visual Designer.
+A small example of using Workflow Core as part of an ASP.NET Core 5 web application.
 
-In this tutorial, you learn how to:
+In this document, you will learn how to:
 
 - Install NuGet package "WorkflowCore"
 - Define workflows with the fluent API
 - Passing data between steps
 - Injecting dependencies into steps
-- Error handling
-- Parallel Paths Control Structures
+- Do Error handling
+- Do Parallel Paths Control Structures
